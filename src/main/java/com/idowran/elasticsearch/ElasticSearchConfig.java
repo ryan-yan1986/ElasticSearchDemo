@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class MyConfig {
+public class ElasticSearchConfig {
 	
 	@Bean
 	public TransportClient client() throws UnknownHostException {

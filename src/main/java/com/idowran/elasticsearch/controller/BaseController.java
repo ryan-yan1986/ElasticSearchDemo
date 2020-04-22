@@ -1,4 +1,4 @@
-package com.idowran.elasticsearch;
+package com.idowran.elasticsearch.controller;
 
 import java.io.IOException;
 import java.util.ArrayList;
